@@ -1,9 +1,18 @@
-<h3 align="center">Passionate about building web and mobile applications</h3>
+<h3>Passionate about building web and mobile applications</h3>
 <img align="right" alt="Coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 
 
-# 💫 About Me:
-🚀 Software Developer skilled in React Native, Node.js, and MERN stack.<br>💻 Passionate about building web and mobile applications with a focus on performance and scalability.<br>🌱 Currently exploring Spring Boot and Cloud technologies.<br>👨‍💻 Experienced with Firebase, MySQL, and MongoDB.<br>🎯 Open to collaborating on innovative projects and contributing to open-source!
+<div align="left">
+  <h2>💫 About Me:</h2>
+  <p>
+    🚀 Software Developer skilled in React Native, Node.js, and MERN stack.<br>
+    💻 Passionate about building web and mobile applications with a focus on performance and scalability.<br>
+    🌱 Currently exploring Spring Boot and Cloud technologies.<br>
+    👨‍💻 Experienced with Firebase, MySQL, and MongoDB.<br>
+    🎯 Open to collaborating on innovative projects and contributing to open-source!
+  </p>
+</div>
+
 
 
 ## 🌐 Socials:
