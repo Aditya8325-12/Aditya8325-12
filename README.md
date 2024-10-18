@@ -3,11 +3,13 @@
 
 
 - 🚀  Software Developer skilled in React Native, Node.js, and MERN stack.
-- 💻  Passionate about building web and mobile applications with a focus on performance and scalability.
+   
 - 👨‍💻  Experienced with Firebase, MySQL, and MongoDB.
-- 🎯  Open to collaborating on innovative projects and contributing to open-source!
+
 - 🔭 I’m currently working on **Time Track**
+
 - 🌱 I’m currently learning **Node JS & Express**
+
 - 💬 Ask me about **Android, React**
 
 
