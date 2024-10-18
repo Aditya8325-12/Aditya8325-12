@@ -2,27 +2,23 @@
 <img align="right" alt="Coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 
 
-<div align="left">
-  <h2>💫 About Me:</h2>
-  <p>
-    🚀 Software Developer skilled in React Native, Node.js, and MERN stack.<br>
-    💻 Passionate about building web and mobile applications with a focus on performance and scalability.<br>
-    🌱 Currently exploring Spring Boot and Cloud technologies.<br>
-    👨‍💻 Experienced with Firebase, MySQL, and MongoDB.<br>
-    🎯 Open to collaborating on innovative projects and contributing to open-source!
-  </p>
-</div>
+- 🚀  Software Developer skilled in React Native, Node.js, and MERN stack.
+- 💻  Passionate about building web and mobile applications with a focus on performance and scalability.
+- 👨‍💻  Experienced with Firebase, MySQL, and MongoDB.
+- 🎯  Open to collaborating on innovative projects and contributing to open-source!
+- 🔭 I’m currently working on **Time Track**
+- 🌱 I’m currently learning **Node JS & Express**
+- 💬 Ask me about **Android, React**
 
 
-
-## 🌐 Socials:
+<h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/adityadhutraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adityadhutraj" height="30" width="40" /></a>
 <a href="https://instagram.com/tailwind_css_tutorials" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tailwind_css_tutorials" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/aditya dhutraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aditya dhutraj" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/aditya8325" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aditya8325" height="30" width="40" /></a>
 </p>
 
-# 💻 Tech Stack:
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <strong>Languages:</strong><br>
